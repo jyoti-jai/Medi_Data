@@ -1,0 +1,10 @@
+
+# Ignore virtual environment
+medi_env/
+
+# Ignore data folders
+data/
+
+# Ignore system files
+__pycache__/
+*.pyc
